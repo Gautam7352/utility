@@ -1,4 +1,4 @@
-package encrypt
+package AES_cipher
 
 import (
 	"testing"

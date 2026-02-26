@@ -1,6 +1,6 @@
 # Encrypt Package
 
-The `encrypt` package provides AES encryption and decryption utilities for securely encrypting strings using the AES algorithm. It uses CBC mode with PKCS7 padding and random IV generation for enhanced security.
+The `AES_cipher` package provides AES encryption and decryption utilities for securely encrypting strings using the AES algorithm. It uses CBC mode with PKCS7 padding and random IV generation for enhanced security.
 
 ## Features
 
